@@ -4,7 +4,7 @@ BaibianJS(百变JS) is a little and amazing mini chrome extension!It will help y
 ## Step 1
 下载BainbianJS插件文件，background.js\manifest.json，真正起作用的就这两个，放到一个BianbianJS文件夹里。进入Chrome Extension插件界面，选加载安装，选择BianbianJS文件夹，安装成功。
 ## Step 2
-安装成功后，要依据自己的使用情况修改backgroud.js中的配置，配置要替换的JS，非常简单，就不废话了。
+安装成功后，要依据自己的使用情况修改backgroud.js中的配置，配置要替换的JS，非常简单，就不废话了。修改JS记得重载加载插件哦！
 # 与我互动
 ## 请关注我的公众号
 ![约吗公众号](https://github.com/Lancker/NIM_Web_Weapp_Demo/blob/master/res_github/qrcode_for_yuema.jpg)
