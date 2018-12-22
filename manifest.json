@@ -1,0 +1,12 @@
+{
+  "name": "BaibianJS",
+  "version": "1.0",
+  "description": "BaibianJS，百变JS主要有两个功能，一是替换指定网站的JS，实现任性注入。二是修改Access-Control-Allow-Origin，实现任性跨域",
+  "permissions": ["webRequest", "webRequestBlocking",
+                  "http://*/*"],
+  "background": {
+    "scripts": [ "background.js"]
+  },
+
+  "manifest_version": 2
+  }
