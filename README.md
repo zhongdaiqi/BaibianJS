@@ -7,9 +7,10 @@ BaibianJS(百变JS) is a little and amazing mini chrome extension!It will help y
 安装成功后，要依据自己的使用情况修改backgroud.js中的配置，配置要替换的JS，非常简单，就不废话了。
 #Support
 请关注我的公众号
-
+![约吗公众号](https://github.com/Lancker/NIM_Web_Weapp_Demo/blob/master/res_github/qrcode_for_yuema.jpg)
 
 #捐助
-如果你觉得不错，想捐助，请扫码
+如果你觉得不错，想捐助献爱心，请扫码
+![微信赞赏码](./wxqrcode.jpg)
 
 
